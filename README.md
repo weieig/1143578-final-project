@@ -2,6 +2,7 @@
 
 ## Project Description
 This is a mobile application developed using MIT App Inventor.
+
 Functions include addressing loneliness among the elderly and providing healthcare services.
 
 ## Files in This Repository
