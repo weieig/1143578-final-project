@@ -2,7 +2,7 @@
 
 ## Project Description
 This is a mobile application developed using MIT App Inventor.
-The project demonstrates the implementation and deployment of the proposed system.
+Functions include addressing loneliness among the elderly and providing healthcare services.
 
 ## Files in This Repository
 - `.aia` : MIT App Inventor project source file
