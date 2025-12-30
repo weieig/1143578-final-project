@@ -1,4 +1,4 @@
-# Week 17 Project – Senior social engagement & health care APP
+Senior social engagement & health care APP
 
 ## Project Description
 This is a mobile application developed using MIT App Inventor.
