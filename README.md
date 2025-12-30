@@ -20,5 +20,5 @@ Functions include addressing loneliness among the elderly and providing healthca
 - Android phone 
 
 ## Author
-Student ID : 1143578 
+Student ID : 1143578 \n
 Name : Emma何昕穎
