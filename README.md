@@ -17,7 +17,7 @@ Functions include addressing loneliness among the elderly and providing healthca
 
 ## Platform & Tools
 - MIT App Inventor
-- Android
+- Android phone 
 
 ## Author
 Student ID: 1143578 Emma何昕穎
