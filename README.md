@@ -10,7 +10,7 @@ Functions include addressing loneliness among the elderly and providing healthca
 
 
 ## How to Run
-### Option 1: View Source Code
+### View Source Code
 1. Download the `.aia` file
 2. Go to https://ai2.appinventor.mit.edu
 3. Import the `.aia` file to view and modify the project
